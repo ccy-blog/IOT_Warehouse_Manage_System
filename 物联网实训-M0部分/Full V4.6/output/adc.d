@@ -1,0 +1,12 @@
+.\output\adc.o: ..\Lib_MCU\src\adc.c
+.\output\adc.o: ..\Lib_MCU\inc\LPC11xx.h
+.\output\adc.o: ..\Lib_MCU\inc\core_cm0.h
+.\output\adc.o: G:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\adc.o: ..\Lib_MCU\inc\system_LPC11xx.h
+.\output\adc.o: ..\Lib_MCU\inc\adc.h
+.\output\adc.o: G:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\output\adc.o: ..\Lib_MCU\inc\gpio.h
+.\output\adc.o: ..\Lib_BSP\inc\oled2864.h
+.\output\adc.o: ..\Lib_BSP\inc\key.h
+.\output\adc.o: ..\Lib_BSP\inc\tools.h
+.\output\adc.o: ..\Lib_BSP\inc\temp_hum.h
